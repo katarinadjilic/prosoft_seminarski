@@ -1,0 +1,32 @@
+C:\Users\Arsa\Desktop\Domen\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Osiguranje\Domen\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Osiguranje\Domen\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Osiguranje\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Osiguranje\Domen\obj\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Osiguranje\Domen\obj\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Osiguranje\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SOFTVERI Seminarski\Osiguranje\Domen\bin\Debug\Domen.dll
+C:\Users\User\Desktop\SOFTVERI Seminarski\Osiguranje\Domen\bin\Debug\Domen.pdb
+C:\Users\User\Desktop\SOFTVERI Seminarski\Osiguranje\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SOFTVERI Seminarski\Osiguranje\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SOFTVERI Seminarski\Osiguranje\Domen\obj\Debug\Domen.dll
+C:\Users\User\Desktop\SOFTVERI Seminarski\Osiguranje\Domen\obj\Debug\Domen.pdb
